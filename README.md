@@ -17,3 +17,10 @@
  sh run_sbms.sh
  ```
  
+ To run the codes for ogbg-molhiv
+ ```
+ cd ogbg-molhiv
+ 
+ sh run_molhiv.sh
+ '''
+ 
