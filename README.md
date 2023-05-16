@@ -11,6 +11,9 @@
 ## Usage
  To run the codes for ZINC, PATTERN, and CLUSTER
  ```
+ cd hyper-gt-framework
+ 
  sh run_zinc.sh
  sh run_sbms.sh
  ```
+ 
