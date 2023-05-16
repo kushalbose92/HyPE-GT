@@ -7,3 +7,10 @@
 * Numpy 1.22.3
 * DGL 0.9.1post1
 * OGB 1.3.6
+
+## Usage
+ To run the codes for ZINC, PATTERN, and CLUSTER
+ ```
+ sh run_zinc.sh
+ sh run_sbms.sh
+ ```
