@@ -8,6 +8,18 @@
 * DGL 0.9.1post1
 * OGB 1.3.6
 
+## Datasets
+
+We perform experiments on the follwoing datasets
+
+* ZINC
+* PATTERN
+* CLUSTER
+* Amazon Computers
+* Amazon Photo
+* Coauthor CS
+* Coauthor Physics
+
 ## Usage
  To run the codes for ZINC, PATTERN, and CLUSTER
  ```
@@ -23,4 +35,12 @@
  
  sh run_molhiv.sh
  '''
+ 
+ To run the deep GNNs models
+ ```
+ cd hyper-deep-gnn
+ 
+ sh run_all.sh
+ '''
+ 
  
