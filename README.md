@@ -38,8 +38,5 @@ We perform experiments on the follwoing datasets
  To run the deep GNNs models
  ```
  cd hyper-deep-gnn
- 
  sh run_all.sh
- '''
- 
- 
+ ```
