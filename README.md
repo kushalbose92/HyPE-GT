@@ -12,7 +12,7 @@
 
 ## Datasets
 
-We perform experiments on the follwoing datasets
+We perform experiments on the following datasets
 
 * ZINC
 * PATTERN
@@ -21,6 +21,8 @@ We perform experiments on the follwoing datasets
 * Amazon Photo
 * Coauthor CS
 * Coauthor Physics
+
+## Model Architecture
 
 ![HyPE-GT](https://github.com/kushalbose92/HyPE-GT/blob/main/hype-gt-model.png)
 
