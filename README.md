@@ -1,6 +1,6 @@
 # HyPE-GT: where Graph Transformers meet Hyperbolic Positional Encodings
 
-![HyPE-GT](./pipeline.pdf)
+![HyPE-GT](https://github.com/kushalbose92/HyPE-GT/blob/main/pipeline.png)
 
 ## Dependencies
 
