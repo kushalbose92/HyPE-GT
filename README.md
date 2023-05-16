@@ -32,9 +32,8 @@ We perform experiments on the follwoing datasets
  To run the codes for ogbg-molhiv
  ```
  cd ogbg-molhiv
- 
  sh run_molhiv.sh
- '''
+ ```
  
  To run the deep GNNs models
  ```
