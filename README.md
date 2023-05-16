@@ -1,6 +1,6 @@
 # HyPE-GT: where Graph Transformers meet Hyperbolic Positional Encodings
 
-![HyPE-GT](https://github.com/kushalbose92/HyPE-GT/blob/main/pipeline.png)
+![pipeline](https://github.com/kushalbose92/HyPE-GT/blob/main/pipeline.png)
 
 ## Dependencies
 
@@ -21,6 +21,8 @@ We perform experiments on the follwoing datasets
 * Amazon Photo
 * Coauthor CS
 * Coauthor Physics
+
+![HyPE-GT](https://github.com/kushalbose92/HyPE-GT/blob/main/hype-gt-model.png)
 
 ## Usage
  To run the codes for ZINC, PATTERN, and CLUSTER
