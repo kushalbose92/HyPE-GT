@@ -70,14 +70,9 @@ class OGBPPADataset(Dataset):
         self.dataset = PygGraphPropPredDataset(name=self.name, transform = transform)
         split_idx = self.dataset.get_idx_split()
 
-        frac = 0.0001
         self.train = self.dataset[split_idx["train"]]
         self.val = self.dataset[split_idx["valid"]]
         self.test = self.dataset[split_idx["test"]]
-
-        self.train = self.train[:int(frac*len(self.train))]
-        self.val = self.val[:int(frac*len(self.val))]
-        self.test = self.test[:int(frac*len(self.test))]
         
         print('train, val, test sizes :', len(self.train), len(self.val), len(self.test))
         print("[I] Finished loading.")
