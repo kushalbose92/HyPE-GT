@@ -14,9 +14,14 @@
 
 We perform experiments on the following datasets
 
-* ZINC
 * PATTERN
 * CLUSTER
+* MNIST
+* CIFAR10
+* ogbg-molhiv
+* ogbg-ppa
+* ogbg-molpcba
+* ogbg-code2
 * Amazon Computers
 * Amazon Photo
 * Coauthor CS
