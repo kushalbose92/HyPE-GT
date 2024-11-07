@@ -36,14 +36,17 @@ We perform experiments on the following datasets
  ```
  cd hyper-gt-framework
  
- sh run_zinc.sh
  sh run_sbms.sh
+ sh run_superpixels.sh
  ```
  
- To run the codes for ogbg-molhiv
+ To run the codes for OGB graphs
  ```
- cd ogbg-molhiv
+ cd ogb_graphs
  sh run_molhiv.sh
+ sh run_ppa.sh
+ sh run_molpcba.sh
+ sh run_code2.sh
  ```
  
  To run the deep GNNs models
